@@ -1,6 +1,6 @@
 
 public class Llibre {
-	private String titol, autor;
+    private String titol, autor;
     private int exemplar, prestec;
     
     public Llibre() {
